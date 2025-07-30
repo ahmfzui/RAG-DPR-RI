@@ -1,0 +1,74 @@
+{
+  "scraped_at": "2025-07-03T17:09:18.892524",
+  "total_main_services": 4,
+  "total_partisipasi_details": 3,
+  "data": {
+    "main_services": [
+      {
+        "title": "Pengaduan ke DPR RI",
+        "description": "Aduan atau Aspirasi terkait dengan tugas, fungsi dan kewenangan DPR RI dalam bentuk pernyataan sikap, pendapat, harapan, kritikan, masukan dan saran.",
+        "image_url": "https://berkas.dpr.go.id/www/img/aspirasi/pengaduan-dpr.png",
+        "action_url": "https://pengaduan.dpr.go.id/",
+        "action_text": "Aduan Saya",
+        "type": "pengaduan_dpr",
+        "level": "main"
+      },
+      {
+        "title": "Pengaduan ke Pemerintah",
+        "description": "Aduan ataupun Aspirasi kepada pemerintah pusat dan pemerintah daerah, atau lembaga penyelenggara pelayanan publik yang berwenang menanganinya.",
+        "image_url": "https://berkas.dpr.go.id/www/img/aspirasi/pengaduan-pemerintah.png",
+        "action_url": "https://dpr.lapor.go.id/",
+        "action_text": "Bawa Saya ke lapor.go.id",
+        "type": "pengaduan_pemerintah",
+        "level": "main"
+      },
+      {
+        "title": "Partisipasi Masyarakat",
+        "description": "Sampaikan Partisipasi anda terhadap RUU yang sedang dibahas ataupun RUU yang berlaku.",
+        "image_url": "https://berkas.dpr.go.id/www/img/aspirasi/partisipasi-masyarakat.png",
+        "action_url": null,
+        "action_text": "Pendapat Saya",
+        "type": "partisipasi_masyarakat",
+        "level": "main"
+      },
+      {
+        "title": "Kunjungan Masyarakat",
+        "description": "",
+        "image_url": "https://berkas.dpr.go.id/www/img/aspirasi/kunjungan-masyarakat.png",
+        "action_url": "https://humas.dpr.go.id/",
+        "action_text": "Permintaan Kunjungan",
+        "type": "kunjungan_masyarakat",
+        "level": "main"
+      }
+    ],
+    "partisipasi_detail": [
+      {
+        "title": "PUSAT PERANCANGAN UNDANG-UNDANG BIDANG POLITIK, HUKUM, DAN HAM",
+        "description": "Sampaikan pendapat atau aspirasi Anda terhadap RUU yang sedang dibahas sebelum disahkan.",
+        "image_url": "https://www.dpr.go.id/images/sekjen-bk-dpr-ri.png",
+        "action_url": "https://puupolhukham.dpr.go.id/simas-puu/index",
+        "action_text": "Pendapat Saya",
+        "type": "puu_polhukham",
+        "level": "partisipasi_detail"
+      },
+      {
+        "title": "PUSAT PERANCANGAN UNDANG-UNDANG BIDANG EKONOMI, KEUANGAN, INDUSTRI, PEMBANGUNAN, DAN KESEJAHTERAAN RAKYAT",
+        "description": "Sampaikan pendapat atau aspirasi Anda terhadap RUU yang sedang dibahas sebelum disahkan.",
+        "image_url": "https://www.dpr.go.id/images/sekjen-bk-dpr-ri.png",
+        "action_url": "https://puuekkukesra.dpr.go.id/simas-puu/index",
+        "action_text": "Pendapat Saya",
+        "type": "puu_ekkukesra",
+        "level": "partisipasi_detail"
+      },
+      {
+        "title": "PUSAT PEMANTAUAN PELAKSANAAN UU BADAN KEAHLIAN DPR RI",
+        "description": "Sampaikan pendapat atau aspirasi Anda terhadap Undang-Undang sedang yang berlaku.",
+        "image_url": "https://www.dpr.go.id/images/sekjen-bk-dpr-ri.png",
+        "action_url": "https://puspanlakuu.dpr.go.id/kuesioner",
+        "action_text": "Pendapat Saya",
+        "type": "puspanlakuu",
+        "level": "partisipasi_detail"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "dpr_sebagai_lembaga_negara": [
+    {
+      "title": "Tugas dan Wewenang DPR sebagai Fungsi Legislasi",
+      "content": "Menyusun Program Legislasi Nasional (Prolegnas)\nMenyusun dan membahas Rancangan Undang-Undang (RUU)\nMenerima RUU yang diajukan oleh DPD (terkait otonomi daerah; hubungan pusat dan daerah; pembentukan, pemekaran dan penggabungan daerah; pengelolaan SDA dan SDE lainnya; serta perimbangan keuangan pusat dan daerah)\nMembahas RUU yang diusulkan oleh Presiden ataupun DPD\nMenetapkan UU bersama dengan Presiden\nMenyetujui atau tidak menyetujui peraturan pemerintah pengganti UU (yang diajukan Presiden) untuk ditetapkan menjadi UU",
+      "expanded": true
+    },
+    {
+      "title": "Tugas dan Wewenang DPR sebagai Fungsi Anggaran",
+      "content": "Memberikan persetujuan atas RUU tentang APBN (yang diajukan Presiden)\nMemperhatikan pertimbangan DPD atas RUU tentang APBN dan RUU terkait pajak, pendidikan dan agama\nMenindaklanjuti hasil pemeriksaan atas pengelolaan dan tanggung jawab keuangan negara yang disampaikan oleh BPK\nMemberikan persetujuan terhadap pemindahtanganan aset negara maupun terhadap perjanjian yang berdampak luas bagi kehidupan rakyat yang terkait dengan beban keuangan negara",
+      "expanded": true
+    },
+    {
+      "title": "Tugas dan Wewenang DPR sebagai Fungsi Pengawasan",
+      "content": "Melakukan pengawasan terhadap pelaksanaan UU, APBN dan kebijakan pemerintah\nMembahas dan menindaklanjuti hasil pengawasan yang disampaikan oleh DPD (terkait pelaksanaan UU mengenai otonomi daerah, pembentukan, pemekaran dan penggabungan daerah, pengelolaan SDA dan SDE lainnya, pelaksanaan APBN, pajak, pendidikan dan agama)",
+      "expanded": true
+    },
+    {
+      "title": "Tugas dan Wewenang DPR lainnya",
+      "content": "Menyerap, menghimpun, menampung dan menindaklanjuti aspirasi rakyat\nMemberikan persetujuan kepada Presiden untuk: (1) menyatakan perang ataupun membuat perdamaian dengan Negara lain; (2) mengangkat dan memberhentikan anggota Komisi Yudisial.\nMemberikan pertimbangan kepada Presiden dalam hal: (1) pemberian amnesti dan abolisi; (2) mengangkat duta besar dan menerima penempatan duta besar lain\nMemilih Anggota BPK dengan memperhatikan pertimbangan DPD\nMemberikan persetujuan kepada Komisi Yudisial terkait calon hakim agung yang akan ditetapkan menjadi hakim agung oleh Presiden\nMemilih 3 (tiga) orang hakim konstitusi untuk selanjutnya diajukan ke Presiden",
+      "expanded": true
+    },
+    {
+      "title": "Hak DPR RI",
+      "content": "Hak Interpelasi\nHak DPR untuk meminta keterangan kepada Pemerintah mengenai kebijakan pemerintah yang penting dan strategis serta berdampak luas pada kehidupan bermasyarakat, berbangsa, dan bernegara.\nHak Angket\nHak DPR untuk melakukan penyelidikan terhadap pelaksanaan suatu undang-undang/kebijakan pemerintah yang berkaitan dengan hal penting, strategis, dan berdampak luas pada kehidupan bermasyarakat, berbangsa, dan bernegara yang diduga bertentangan dengan peraturan perundang-undangan.\nHak Menyatakan Pendapat\nKebijakan pemerintah atau mengenai kejadian luar biasa yang terjadi di tanah air atau di dunia internasional;\nTindak lanjut pelaksanaan hak interpelasi dan hak angket; atau\nDugaan bahwa Presiden dan/atau Wakil Presiden melakukan pelanggaran hukum baik berupa pengkhianatan terhadap negara, korupsi, penyuapan, tindak pidana berat lainnya, maupun perbuatan tercela, dan/atau Presiden dan/atau Wakil Presiden tidak lagi memenuhi syarat sebagai Presiden dan/atau Wakil Presiden.",
+      "expanded": true
+    }
+  ],
+  "anggota_dpr": [
+    {
+      "title": "Kewajiban Anggota DPR RI",
+      "content": "Memegang teguh dan mengamalkan Pancasila\nMelaksanakan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan menaati ketentuan peraturan perundang-undangan\nMempertahankan dan memelihara kerukunan nasional dan keutuhan Negara Kesatuan Republik Indonesia\nMendahulukan kepentingan negara di atas kepentingan pribadi, kelompok, dan golongan\nMemperjuangkan peningkatan kesejahteraan rakyat\nMenaati prinsip demokrasi dalam penyelenggaraan pemerintahan negara\nMenaati tata tertib dan kode etik\nMenjaga etika dan norma dalam hubungan kerja dengan lembaga lain\nMenyerap dan menghimpun aspirasi konstituen melalui kunjungan kerja secara berkala\nMenampung dan menindaklanjuti aspirasi dan pengaduan masyarakat\nMemberikan pertanggungjawaban secara moral dan politis kepada konstituen di daerah pemilihannya.",
+      "expanded": true
+    },
+    {
+      "title": "Hak Anggota DPR RI",
+      "content": "Hak mengajukan usul rancangan undang-undang\nHak mengajukan pertanyaan\nHak menyampaikan usul dan pendapat\nHak memilih dan dipilih\nHak membela diri\nHak imunitas\nHak protokoler\nHak keuangan dan administratif\nHak pengawasan\nHak mengusulkan dan memperjuangkan program pembangunan dapil\nHak melakukan sosialisasi undang-undang",
+      "expanded": true
+    }
+  ]
+}
